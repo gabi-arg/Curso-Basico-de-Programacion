@@ -1,0 +1,23 @@
+{
+  "name": "curso-basico-de-programacion",
+  "version": "1.0.0",
+  "description": "Curso basico de Programacion. Conceptos vistos: Html, Css, Js\r Creacion de videojuegos donde se aplica los conceptos aprendidos y a desarrollar mejor la logica de la programacion con Javascrípt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabi-arg/Curso-Basico-de-Programacion.git"
+  },
+  "author": "Gabriela Duran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabi-arg/Curso-Basico-de-Programacion/issues"
+  },
+  "homepage": "https://github.com/gabi-arg/Curso-Basico-de-Programacion#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
